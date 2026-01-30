@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hardik Jha</h1>
+<h3 align="center">CSE Undergraduate @ IIIT Pune (2028) | Backend & Systems Enthusiast</h3>
 
-<!--
-**Hardikjha09/Hardikjha09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🎓 Computer Science undergraduate at **IIIT Pune**
+- 💻 Interested in **Backend Development and System Design**
+- 📊 Focused on **Fintech**, with a growing interest in **AI**
+- 🎯 Focused on building strong fundamentals through **real-world engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning by building and believe consistency beats motivation.
+
+---
+
+## 🛠️ Skills
+- **Languages**: C, C++, Python, JavaScript, SQL
+- **Frameworks & Libraries**: React, Node.js, Express, Tailwind
+- **Databases**: MongoDB, MySQL
+- **Tools**: Git/GitHub, VS Code
+
+---
+
+## 🤝 Connect With Me
+- Feel free to reach out on [LinkedIn](https://linkedin.com/in/hardik-jha-a1985b160)
+- Or drop me an Email at hardikjha005@gmail.com
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hardikjha09&style=flat-square&color=blue" />
+</p> -->
+
+---
+<p align="center">
+  <i>💛 Always open to learning, building, and meaningful conversations. Feel free to reach out.</i>
+</p>
+
