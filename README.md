@@ -17,7 +17,8 @@ I enjoy learning by building and believe consistency beats motivation.
 ## 🛠️ Skills
 
 - **Languages**: C, C++, Python, JavaScript, SQL
-- **Frameworks & Libraries**: React, Node.js, Express, Tailwind
+- **Frontend**: HTML5, CSS3, Tailwind CSS, Bootstrap, React.js
+- **Backend**: Node.js, Express.js, REST APIs
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git/GitHub, VS Code
 
