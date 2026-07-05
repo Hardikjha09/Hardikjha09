@@ -1,26 +1,29 @@
 <h1 align="center">Hi 👋, I'm Hardik Jha</h1>
-<h3 align="center">CSE Undergraduate @ IIIT Pune (2028) | Backend & Systems Engineering Enthusiast</h3>
+<h3 align="center">CSE Undergraduate @ IIIT Pune (2028) | Backend Engineer | AI Builder</h3>
 
 ---
 
 ## 🧠 About Me
 
 - 🎓 Computer Science undergraduate at **IIIT Pune**
-- 💻 Interested in **Backend Development and System Design**
-- 📊 Focused on **Fintech**, with a growing interest in **AI**
-- 🎯 Focused on building strong fundamentals through **real-world engineering**
+- 🏆 **Meta PyTorch OpenEnv Hackathon Grand Finalist** — top ~800 from 52,000+ devs
+- ⚡ I build things end-to-end, from ML pipelines to production APIs to shipped UIs
+- 💻 Active in **competitive programming**, sharpening problem solving one contest at a time
+- ⚙️ Focused on **Backend Engineering** and building scalable, production-ready systems
+- 🤖 Applying **AI/ML** to real products through **LLM-powered applications**
 
-I enjoy learning by building and believe consistency beats motivation.
+
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- **Languages**: C, C++, Python, JavaScript, SQL
-- **Frontend**: HTML5, CSS3, Tailwind CSS, Bootstrap, React.js
-- **Backend**: Node.js, Express.js, REST APIs
-- **Databases**: MongoDB, MySQL
-- **Tools**: Git/GitHub, VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts&theme=dark" alt="Languages" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,react,nextjs,tailwind&theme=dark" alt="Frameworks" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark" alt="Tools" />
+</p>
 
 ---
 
@@ -41,7 +44,6 @@ Production-grade RESTful backend API for collaborative project & task management
 https://github.com/Hardikjha09/project-management-backend
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -56,7 +58,6 @@ https://github.com/Hardikjha09/project-management-backend
 
 - Feel free to reach out on [LinkedIn](https://linkedin.com/in/hardik-jha-a1985b160)
 - Or drop me an Email at hardikjha005@gmail.com
-
 ---
 
 <p align="center">
