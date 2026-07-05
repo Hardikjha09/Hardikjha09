@@ -8,12 +8,7 @@
 - 🎓 Computer Science undergraduate at **IIIT Pune**
 - 🏆 **Meta PyTorch OpenEnv Hackathon Grand Finalist** — top ~800 from 52,000+ devs
 - ⚡ I build things end-to-end, from ML pipelines to production APIs to shipped UIs
-- 💻 Active in **competitive programming**, sharpening problem solving one contest at a time
-- ⚙️ Focused on **Backend Engineering** and building scalable, production-ready systems
-- 🤖 Applying **AI/ML** to real products through **LLM-powered applications**
-
-
-
+- 💻 Active in **competitive programming** and **DSA**, sharpening problem solving one contest at a time
 ---
 
 ## 🛠️ Tech Stack
